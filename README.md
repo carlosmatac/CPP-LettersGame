@@ -1,4 +1,4 @@
-# CPP-LettersGame
+# CPP-NumbersAndLettersGame
 The letters game consists of given a random set of letters you have to build words from a dictionary. The longest the word, the more points you earn.
 /*! \mainpage Juego de las Letras
 
